@@ -10,4 +10,4 @@ declare class DateFormatter {
     static fromNow(input: Date | number | string): string;
     static toLongDate(input: Date | number | string): string | undefined;
 }
-export default DateFormatter;
+export { DateFormatter };

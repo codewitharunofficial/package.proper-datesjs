@@ -1,9 +1,9 @@
 
 ---
 
-# @codewitharun/proper-dates.js
+# @oyearun/format-dates.js
 
-`@codewitharun/proper-dates.js` is a lightweight, TypeScript-based date formatting and manipulation library. It provides an intuitive `DateFormatter` class that makes working with dates and times in JavaScript simple and efficient. Whether you need to format dates, calculate relative times, or parse date inputs, `@codewitharun/proper-dates.js` has you covered.
+`@oyearun/format-dates.js` is a lightweight, TypeScript-based date formatting and manipulation library. It provides an intuitive `DateFormatter` class that makes working with dates and times in JavaScript simple and efficient. Whether you need to format dates, calculate relative times, or parse date inputs, `@oyearun/format-dates.js` has you covered.
 
 ## Features
 - **Date Formatting**: Format dates using flexible patterns like `YYYY-MM-DD HH:mm:ss`.
@@ -15,9 +15,9 @@
 Install the package using npm or yarn:
 
 ```bash
-npm install @codewitharun/proper-dates.js
+npm install @oyearun/format-dates.js
 # or
-yarn add @codewitharun/proper-dates.js
+yarn add @oyearun/format-dates.js
 ```
 
 ## Usage
@@ -27,7 +27,7 @@ Start by importing the `DateFormatter` class and using it to work with dates.
 ### Basic Example
 
 ```javascript
-import {DateFormatter} from '@codewitharun/proper-dates.js';
+import {DateFormatter} from '@oyearun/format-dates.js';
 
 // Initialize the DateFormatter with a date input
 const formatter = new DateFormatter('2024-11-30T12:00:00Z');

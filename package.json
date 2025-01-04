@@ -1,5 +1,5 @@
 {
-  "name": "@codewitharun/proper-dates.js",
+  "name": "@oyearun/format-dates.js",
   "version": "1.0.6",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -18,7 +18,7 @@
     "ts",
     "date",
     "datesjs",
-    "@codewitharun/proper-dates.js",
+    "@oyearun/format-dates.js",
     "moment",
     "dayjs",
     "format-date",
